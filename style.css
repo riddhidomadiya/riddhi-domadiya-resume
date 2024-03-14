@@ -63,6 +63,7 @@ body{
     font-size: 20px;
     text-transform: uppercase;
     font-weight: 600;
+    margin-bottom: 15px;
 }
 .p3{
     color: #969595;
@@ -84,4 +85,5 @@ body{
 .p-4{
     font-size: 14px;
     color: #969595;
+    margin:0px
 }
